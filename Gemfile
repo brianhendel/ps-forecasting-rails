@@ -60,3 +60,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #Azure OAuth2 authorization gems
 gem 'oauth2'
 gem 'activerecord-session_store'
+
+#Microsoft Graph gem
+gem 'microsoft_graph'
